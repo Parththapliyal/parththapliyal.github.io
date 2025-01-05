@@ -42,16 +42,18 @@ Highly motivated **Business Analytics graduate** with expertise in data analysis
 - **Details:** Features such as date, stock indices, and currency exchange rates were used to train a Random Forest Regression model. Data was cleaned, normalized, and split for robust evaluation.  
 - **Key Results:** Achieved a high **R² score of 0.989 on test data**, indicating the model's reliability in forecasting trends.  
 - **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Impact:** Enabled better decision-making for investors by forecasting future trends in gold prices with high accuracy.  
+- **Impact:** Enabled better decision-making for investors by forecasting future trends in gold prices with high accuracy.
+- **Github Repo Link** - https://github.com/Parththapliyal/Gold-Price-Prediction/tree/main
 
 
-#### **4. Car Price Prediction using Linear Regression**  
-- **Objective:** Created a linear regression model to predict car prices based on key attributes such as year, fuel type, and ownership history.  
-- **Details:** The model was trained on historical data, with categorical variables like fuel type and seller type encoded for better accuracy. Scatter plots and residual analysis were used to evaluate model fit.  
-- **Key Results:** Achieved **R² scores of 0.88 (training)** and **0.83 (test)**, showcasing robust performance.  
-- **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib  
-- **Impact:** Helped identify factors influencing car pricing, offering insights for buyers and sellers in the automotive market.  
-- **[GitHub Repository](#)**  
+#### **4. Movie Recommendation System**
+- **Objective**: Built a recommendation system to suggest similar movies based on user-selected titles using content-based filtering techniques.
+- **Details**: Processed datasets containing movie details like genres, keywords, cast, and crew. Generated tags combining multiple features and used the Bag of Words model for vectorization. Cosine similarity 
+  was employed to measure movie similarity.
+- **Key Results**: The system provides highly relevant recommendations. For instance, selecting Spectre suggests movies like Skyfall and Quantum of Solace.
+- **Technologies Used**: Python, Pandas, NumPy, NLTK, Scikit-learn, Pickle
+- **Impact**: Improved the movie discovery experience for users by recommending personalized and relevant options based on movie content.
+- **Github Repo Link**-https://github.com/Parththapliyal/Movie-recommendation-system/tree/main 
 
 ---
 
