@@ -19,13 +19,15 @@ Highly motivated **Business Analytics graduate** with expertise in data analysis
 
 ### 💼 **Projects**
 
-#### **1. Car Price Prediction using Lasso Regression**  
-- **Objective:** Developed a predictive model to estimate car prices based on features like year, fuel type, and transmission type.  
-- **Details:** Lasso regression was used to handle overfitting by penalizing less important features, ensuring a robust model. Categorical variables such as fuel type and transmission were encoded to improve performance.  
-- **Key Results:** Achieved **R² scores of 0.84 on training data** and **0.87 on test data**, demonstrating strong predictive power.  
-- **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib  
-- **Impact:** Provided actionable insights into factors influencing car prices, which can aid in pricing strategy for sellers or dealerships.
-- **Github repo link** - https://github.com/Parththapliyal/Car-Price-Prediction-using-Lasso-Regression 
+
+#### **1. Movie Recommendation System**
+- **Objective**: Built a recommendation system to suggest similar movies based on user-selected titles using content-based filtering techniques.
+- **Details**: Processed datasets containing movie details like genres, keywords, cast, and crew. Generated tags combining multiple features and used the Bag of Words model for vectorization. Cosine similarity 
+  was employed to measure movie similarity.
+- **Key Results**: The system provides highly relevant recommendations. For instance, selecting Spectre suggests movies like Skyfall and Quantum of Solace.
+- **Technologies Used**: Python, Pandas, NumPy, NLTK, Scikit-learn, Pickle
+- **Impact**: Improved the movie discovery experience for users by recommending personalized and relevant options based on movie content.
+- **Github Repo Link**[Movie Recommendation System](https://github.com/Parththapliyal/Movie-recommendation-system/tree/main)
 
 
 #### **2. Sonar Rock vs Mine Classification**  
@@ -34,7 +36,7 @@ Highly motivated **Business Analytics graduate** with expertise in data analysis
 - **Key Results:** Achieved an accuracy of **83.4% on training data** and **76.2% on test data**, showcasing strong generalization performance.  
 - **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Impact:** This model can be applied in mining industries to automate signal classification, improving efficiency and reducing manual errors.
-- **Github Repo Link** - https://github.com/Parththapliyal/Sonar-Rock-vs-Mine-Classification-using-Logistic-Regression-/tree/main 
+- **Github Repo Link** - [Sonar Rock vs Mine Classification](https://github.com/Parththapliyal/Sonar-Rock-vs-Mine-Classification-using-Logistic-Regression-/tree/main) 
 
 
 #### **3. Gold Price Prediction using Random Forest Regression**  
@@ -43,17 +45,15 @@ Highly motivated **Business Analytics graduate** with expertise in data analysis
 - **Key Results:** Achieved a high **R² score of 0.989 on test data**, indicating the model's reliability in forecasting trends.  
 - **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Impact:** Enabled better decision-making for investors by forecasting future trends in gold prices with high accuracy.
-- **Github Repo Link** - https://github.com/Parththapliyal/Gold-Price-Prediction/tree/main
+- **Github Repo Link** - [Gold Price Prediction](https://github.com/Parththapliyal/Gold-Price-Prediction/tree/main)
 
-
-#### **4. Movie Recommendation System**
-- **Objective**: Built a recommendation system to suggest similar movies based on user-selected titles using content-based filtering techniques.
-- **Details**: Processed datasets containing movie details like genres, keywords, cast, and crew. Generated tags combining multiple features and used the Bag of Words model for vectorization. Cosine similarity 
-  was employed to measure movie similarity.
-- **Key Results**: The system provides highly relevant recommendations. For instance, selecting Spectre suggests movies like Skyfall and Quantum of Solace.
-- **Technologies Used**: Python, Pandas, NumPy, NLTK, Scikit-learn, Pickle
-- **Impact**: Improved the movie discovery experience for users by recommending personalized and relevant options based on movie content.
-- **Github Repo Link**-https://github.com/Parththapliyal/Movie-recommendation-system/tree/main 
+#### **4.Car Price Prediction using Lasso Regression**  
+- **Objective:** Developed a predictive model to estimate car prices based on features like year, fuel type, and transmission type.  
+- **Details:** Lasso regression was used to handle overfitting by penalizing less important features, ensuring a robust model. Categorical variables such as fuel type and transmission were encoded to improve performance.  
+- **Key Results:** Achieved **R² scores of 0.84 on training data** and **0.87 on test data**, demonstrating strong predictive power.  
+- **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib  
+- **Impact:** Provided actionable insights into factors influencing car prices, which can aid in pricing strategy for sellers or dealerships.
+- **Github repo link** - [Car Price Prediction using Lasso Regression](https://github.com/Parththapliyal/Car-Price-Prediction-using-Lasso-Regression)
 
 ---
 
