@@ -24,7 +24,8 @@ Highly motivated **Business Analytics graduate** with expertise in data analysis
 - **Details:** Lasso regression was used to handle overfitting by penalizing less important features, ensuring a robust model. Categorical variables such as fuel type and transmission were encoded to improve performance.  
 - **Key Results:** Achieved **R² scores of 0.84 on training data** and **0.87 on test data**, demonstrating strong predictive power.  
 - **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib  
-- **Impact:** Provided actionable insights into factors influencing car prices, which can aid in pricing strategy for sellers or dealerships.  
+- **Impact:** Provided actionable insights into factors influencing car prices, which can aid in pricing strategy for sellers or dealerships.
+- **Github repo link** - https://github.com/Parththapliyal/Car-Price-Prediction-using-Lasso-Regression 
 
 
 #### **2. Sonar Rock vs Mine Classification**  
