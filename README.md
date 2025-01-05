@@ -33,7 +33,8 @@ Highly motivated **Business Analytics graduate** with expertise in data analysis
 - **Details:** The project utilized a logistic regression algorithm to predict labels based on sonar signal frequencies. The dataset was preprocessed to handle missing values and normalize features for better accuracy.  
 - **Key Results:** Achieved an accuracy of **83.4% on training data** and **76.2% on test data**, showcasing strong generalization performance.  
 - **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Impact:** This model can be applied in mining industries to automate signal classification, improving efficiency and reducing manual errors.   
+- **Impact:** This model can be applied in mining industries to automate signal classification, improving efficiency and reducing manual errors.
+- **Github Repo Link** - https://github.com/Parththapliyal/Sonar-Rock-vs-Mine-Classification-using-Logistic-Regression-/tree/main 
 
 
 #### **3. Gold Price Prediction using Random Forest Regression**  
