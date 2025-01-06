@@ -25,7 +25,8 @@ Highly motivated **Business Analytics graduate** with expertise in data analysis
 - **Key Results**: Provided actionable insights into sales trends, top-performing outlets, and product preferences, enabling data-driven decisions for operations and marketing teams.
 - **Technologies Used**: Power BI, DAX, Data Cleaning, Data Visualization
 - **Impact**: Improved operational strategies and customer satisfaction by identifying high-performing products and regions.
-- **Published Report Link** -  https://app.powerbi.com/view?r=eyJrIjoiN2E4MzA4ZWYtZDI3Zi00MTI2LThlOGItMzU4ZDgxZjQ4ZWU4IiwidCI6ImU1ZjZjMDQ0LTIzODMtNDViZC05MTEyLTQxOGY2MjIzMjY1OCJ9
+- **Published Report Link** -  [Blinkit sales and performance dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2E4MzA4ZWYtZDI3Zi00MTI2LThlOGItMzU4ZDgxZjQ4ZWU4IiwidCI6ImU1ZjZjMDQ0LTIzODMtNDViZC05MTEyLTQxOGY2MjIzMjY1OCJ9)
+
 
  #### **2. Adidas Sales Analysis Dashboard**
 - **Objective**: Developed an interactive Power BI dashboard to analyze Adidas' sales performance, profitability, and product trends across regions and categories.
@@ -33,16 +34,14 @@ Highly motivated **Business Analytics graduate** with expertise in data analysis
 - **Key Results**: Identified top-performing products and regions, optimized inventory management, and provided actionable insights for marketing and sales teams.
 - **Technologies Used**: Power BI, DAX, Data Cleaning, Data Visualization
 - **Impact**: Empowered stakeholders to make data-driven decisions, improving sales strategies and operational efficiency.
-- **Published Report Link** - https://app.powerbi.com/view?r=eyJrIjoiOGQ0ODkzYzctYmY5YS00NDFkLWEwOTQtYWUwOGM5Mzk1M2RiIiwidCI6ImU1ZjZjMDQ0LTIzODMtNDViZC05MTEyLTQxOGY2MjIzMjY1OCJ9
-
+- **Published Report Link** - [Adidas Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGQ0ODkzYzctYmY5YS00NDFkLWEwOTQtYWUwOGM5Mzk1M2RiIiwidCI6ImU1ZjZjMDQ0LTIzODMtNDViZC05MTEyLTQxOGY2MjIzMjY1OCJ9)
 #### **3. Superstore Analytics Dashboard**
 - **Objective**: Designed an interactive Power BI dashboard to analyze sales performance, profitability, and customer behavior for a fictional superstore.
 - **Details**: Visualized metrics such as total sales, profit, and order volume. Included regional sales analysis, product category performance, customer segmentation, and time-based trends with dynamic filters and drill-down capabilities.
 - **Key Results**: Enabled stakeholders to identify top-performing regions and products, optimize inventory and shipping strategies, and make data-driven decisions.
 - **Technologies Used**: Power BI, DAX, Data Cleaning, Data Visualization
 - **Impact**: Enhanced operational efficiency and strategic planning by providing actionable insights into sales trends and customer behavior.
-- **Published Report Link** - https://app.powerbi.com/view?r=eyJrIjoiMGVjZTk4NWUtZWYyMy00NWQ2LWIxMmYtY2U4ZmUzYzA2ZGEyIiwidCI6ImU1ZjZjMDQ0LTIzODMtNDViZC05MTEyLTQxOGY2MjIzMjY1OCJ9
-
+- **Published Report Link** -  [Superstore analytics dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGVjZTk4NWUtZWYyMy00NWQ2LWIxMmYtY2U4ZmUzYzA2ZGEyIiwidCI6ImU1ZjZjMDQ0LTIzODMtNDViZC05MTEyLTQxOGY2MjIzMjY1OCJ9)
 
 ### 💼 **Projects on Machine Learning**
 
