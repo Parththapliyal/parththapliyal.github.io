@@ -17,7 +17,7 @@ Highly motivated **Business Analytics graduate** with expertise in data analysis
 
 ---
 
-### 💼 **Projects**
+### 💼 **Projects on PowerBI**
 
 #### **1.Blinkit Sales and Performance Dashboard**
 - **Objective**: Developed an interactive Power BI dashboard to analyze sales, customer engagement, and outlet performance for Blinkit, a last-mile delivery service.
@@ -26,6 +26,26 @@ Highly motivated **Business Analytics graduate** with expertise in data analysis
 - **Technologies Used**: Power BI, DAX, Data Cleaning, Data Visualization
 - **Impact**: Improved operational strategies and customer satisfaction by identifying high-performing products and regions.
 - **Published Report Link** -  https://app.powerbi.com/view?r=eyJrIjoiN2E4MzA4ZWYtZDI3Zi00MTI2LThlOGItMzU4ZDgxZjQ4ZWU4IiwidCI6ImU1ZjZjMDQ0LTIzODMtNDViZC05MTEyLTQxOGY2MjIzMjY1OCJ9
+
+  #### **2. Coca-Cola Sales and Performance Dashboard**
+- **Objective**: Created an interactive Power BI dashboard to analyze Coca-Cola’s sales performance, profitability, and market trends across regions and product categories.
+- **Details**: Visualized metrics such as total revenue, profit margins, and units sold. Conducted region-wise and category-specific analysis, including seasonal trends, top-selling products, and customer preferences. Integrated dynamic filters and drill-down features for in-depth exploration.
+- **Key Results**: Identified high-performing regions and products, optimized inventory strategies, and provided actionable insights for sales and marketing teams.
+- **Technologies Used**: Power BI, DAX, Data Cleaning, Data Visualization
+- **Impact**: Improved decision-making by highlighting revenue opportunities and optimizing sales strategies.
+- **Published Report Link** - https://app.powerbi.com/view?r=eyJrIjoiOGQ0ODkzYzctYmY5YS00NDFkLWEwOTQtYWUwOGM5Mzk1M2RiIiwidCI6ImU1ZjZjMDQ0LTIzODMtNDViZC05MTEyLTQxOGY2MjIzMjY1OCJ9
+
+#### **3. Superstore Analytics Dashboard**
+- **Objective**: Designed an interactive Power BI dashboard to analyze sales performance, profitability, and customer behavior for a fictional superstore.
+- **Details**: Visualized metrics such as total sales, profit, and order volume. Included regional sales analysis, product category performance, customer segmentation, and time-based trends with dynamic filters and drill-down capabilities.
+- **Key Results**: Enabled stakeholders to identify top-performing regions and products, optimize inventory and shipping strategies, and make data-driven decisions.
+- **Technologies Used**: Power BI, DAX, Data Cleaning, Data Visualization
+- **Impact**: Enhanced operational efficiency and strategic planning by providing actionable insights into sales trends and customer behavior.
+- **Published Report Link** - https://app.powerbi.com/view?r=eyJrIjoiMGVjZTk4NWUtZWYyMy00NWQ2LWIxMmYtY2U4ZmUzYzA2ZGEyIiwidCI6ImU1ZjZjMDQ0LTIzODMtNDViZC05MTEyLTQxOGY2MjIzMjY1OCJ9
+
+
+### 💼 **Projects on Machine Learning**
+
 
 #### **1. Movie Recommendation System**
 - **Objective**: Built a recommendation system to suggest similar movies based on user-selected titles using content-based filtering techniques.
