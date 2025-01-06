@@ -19,6 +19,13 @@ Highly motivated **Business Analytics graduate** with expertise in data analysis
 
 ### 💼 **Projects**
 
+#### **1.Blinkit Sales and Performance Dashboard**
+- **Objective**: Developed an interactive Power BI dashboard to analyze sales, customer engagement, and outlet performance for Blinkit, a last-mile delivery service.
+- **Details**: Visualized key metrics such as total sales, average ratings, and number of items sold. Included outlet performance by type, size, and location, along with item category trends and fat content distribution insights.
+- **Key Results**: Provided actionable insights into sales trends, top-performing outlets, and product preferences, enabling data-driven decisions for operations and marketing teams.
+- **Technologies Used**: Power BI, DAX, Data Cleaning, Data Visualization
+- **Impact**: Improved operational strategies and customer satisfaction by identifying high-performing products and regions.
+- **Published Report Link** -  https://app.powerbi.com/view?r=eyJrIjoiN2E4MzA4ZWYtZDI3Zi00MTI2LThlOGItMzU4ZDgxZjQ4ZWU4IiwidCI6ImU1ZjZjMDQ0LTIzODMtNDViZC05MTEyLTQxOGY2MjIzMjY1OCJ9
 
 #### **1. Movie Recommendation System**
 - **Objective**: Built a recommendation system to suggest similar movies based on user-selected titles using content-based filtering techniques.
@@ -27,7 +34,7 @@ Highly motivated **Business Analytics graduate** with expertise in data analysis
 - **Key Results**: The system provides highly relevant recommendations. For instance, selecting Spectre suggests movies like Skyfall and Quantum of Solace.
 - **Technologies Used**: Python, Pandas, NumPy, NLTK, Scikit-learn, Pickle
 - **Impact**: Improved the movie discovery experience for users by recommending personalized and relevant options based on movie content.
-- **Github Repo Link**[Movie Recommendation System](https://github.com/Parththapliyal/Movie-recommendation-system/tree/main)
+- **Github Repo Link** - [Movie Recommendation System](https://github.com/Parththapliyal/Movie-recommendation-system/tree/main)
 
 
 #### **2. Sonar Rock vs Mine Classification**  
