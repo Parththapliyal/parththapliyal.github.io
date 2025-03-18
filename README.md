@@ -17,6 +17,52 @@ Highly motivated **Business Analytics graduate** with expertise in data analysis
 
 ---
 
+### 💼 **Projects on Machine Learning**
+#### **1. YOLO Number Plate Detection
+- **Objective**: Trained and develped a  YOLOv8 model for license plate detection using a custom dataset.
+- **Details** : Loaded the YOLOv8 model (yolov8n.pt), provided training data via data.yaml, and optimized the model over multiple epochs, fine tuned it on a number plate dataset and optimized detection accuracy.
+- **Key Results** : The model successfully learns to detect objects from the dataset, showcasing accurate predictions.
+- **Technologies Used** : Python, Ultralytics YOLO, OpenCV, NumPy, Pandas
+- **Impact** : Provides a foundation for object detection tasks, enabling real-world applications like security surveillance and autonomous systems.
+
+
+#### **2. Movie Recommendation System**
+- **Objective**: Built a recommendation system to suggest similar movies based on user-selected titles using content-based filtering techniques.
+- **Details**: Processed datasets containing movie details like genres, keywords, cast, and crew. Generated tags combining multiple features and used the Bag of Words model for vectorization. Cosine similarity 
+  was employed to measure movie similarity.
+- **Key Results**: The system provides highly relevant recommendations. For instance, selecting Spectre suggests movies like Skyfall and Quantum of Solace.
+- **Technologies Used**: Python, Pandas, NumPy, NLTK, Scikit-learn, Pickle
+- **Impact**: Improved the movie discovery experience for users by recommending personalized and relevant options based on movie content.
+- **Github Repo Link** - [Movie Recommendation System](https://github.com/Parththapliyal/Movie-recommendation-system/tree/main)
+
+
+#### **3. Sonar Rock vs Mine Classification**  
+- **Objective:** Built a classification model to distinguish between sonar signals representing rocks and mines.  
+- **Details:** The project utilized a logistic regression algorithm to predict labels based on sonar signal frequencies. The dataset was preprocessed to handle missing values and normalize features for better accuracy.  
+- **Key Results:** Achieved an accuracy of **83.4% on training data** and **76.2% on test data**, showcasing strong generalization performance.  
+- **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **Impact:** This model can be applied in mining industries to automate signal classification, improving efficiency and reducing manual errors.
+- **Github Repo Link** - [Sonar Rock vs Mine Classification](https://github.com/Parththapliyal/Sonar-Rock-vs-Mine-Classification-using-Logistic-Regression-/tree/main) 
+
+
+#### **4. Gold Price Prediction using Random Forest Regression**  
+- **Objective:** Predicted future gold prices using historical market data and machine learning techniques.  
+- **Details:** Features such as date, stock indices, and currency exchange rates were used to train a Random Forest Regression model. Data was cleaned, normalized, and split for robust evaluation.  
+- **Key Results:** Achieved a high **R² score of 0.989 on test data**, indicating the model's reliability in forecasting trends.  
+- **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **Impact:** Enabled better decision-making for investors by forecasting future trends in gold prices with high accuracy.
+- **Github Repo Link** - [Gold Price Prediction](https://github.com/Parththapliyal/Gold-Price-Prediction/tree/main)
+
+#### **4.Car Price Prediction using Lasso Regression**  
+- **Objective:** Developed a predictive model to estimate car prices based on features like year, fuel type, and transmission type.  
+- **Details:** Lasso regression was used to handle overfitting by penalizing less important features, ensuring a robust model. Categorical variables such as fuel type and transmission were encoded to improve performance.  
+- **Key Results:** Achieved **R² scores of 0.84 on training data** and **0.87 on test data**, demonstrating strong predictive power.  
+- **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib  
+- **Impact:** Provided actionable insights into factors influencing car prices, which can aid in pricing strategy for sellers or dealerships.
+- **Github repo link** - [Car Price Prediction using Lasso Regression](https://github.com/Parththapliyal/Car-Price-Prediction-using-Lasso-Regression)
+
+
+
 ### 💼 **Projects on PowerBI**
 
 #### **1.Blinkit Sales and Performance Dashboard**
@@ -43,43 +89,7 @@ Highly motivated **Business Analytics graduate** with expertise in data analysis
 - **Impact**: Enhanced operational efficiency and strategic planning by providing actionable insights into sales trends and customer behavior.
 - **Published Report Link** -  [Superstore analytics dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGVjZTk4NWUtZWYyMy00NWQ2LWIxMmYtY2U4ZmUzYzA2ZGEyIiwidCI6ImU1ZjZjMDQ0LTIzODMtNDViZC05MTEyLTQxOGY2MjIzMjY1OCJ9)
 
-### 💼 **Projects on Machine Learning**
 
-
-#### **1. Movie Recommendation System**
-- **Objective**: Built a recommendation system to suggest similar movies based on user-selected titles using content-based filtering techniques.
-- **Details**: Processed datasets containing movie details like genres, keywords, cast, and crew. Generated tags combining multiple features and used the Bag of Words model for vectorization. Cosine similarity 
-  was employed to measure movie similarity.
-- **Key Results**: The system provides highly relevant recommendations. For instance, selecting Spectre suggests movies like Skyfall and Quantum of Solace.
-- **Technologies Used**: Python, Pandas, NumPy, NLTK, Scikit-learn, Pickle
-- **Impact**: Improved the movie discovery experience for users by recommending personalized and relevant options based on movie content.
-- **Github Repo Link** - [Movie Recommendation System](https://github.com/Parththapliyal/Movie-recommendation-system/tree/main)
-
-
-#### **2. Sonar Rock vs Mine Classification**  
-- **Objective:** Built a classification model to distinguish between sonar signals representing rocks and mines.  
-- **Details:** The project utilized a logistic regression algorithm to predict labels based on sonar signal frequencies. The dataset was preprocessed to handle missing values and normalize features for better accuracy.  
-- **Key Results:** Achieved an accuracy of **83.4% on training data** and **76.2% on test data**, showcasing strong generalization performance.  
-- **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Impact:** This model can be applied in mining industries to automate signal classification, improving efficiency and reducing manual errors.
-- **Github Repo Link** - [Sonar Rock vs Mine Classification](https://github.com/Parththapliyal/Sonar-Rock-vs-Mine-Classification-using-Logistic-Regression-/tree/main) 
-
-
-#### **3. Gold Price Prediction using Random Forest Regression**  
-- **Objective:** Predicted future gold prices using historical market data and machine learning techniques.  
-- **Details:** Features such as date, stock indices, and currency exchange rates were used to train a Random Forest Regression model. Data was cleaned, normalized, and split for robust evaluation.  
-- **Key Results:** Achieved a high **R² score of 0.989 on test data**, indicating the model's reliability in forecasting trends.  
-- **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Impact:** Enabled better decision-making for investors by forecasting future trends in gold prices with high accuracy.
-- **Github Repo Link** - [Gold Price Prediction](https://github.com/Parththapliyal/Gold-Price-Prediction/tree/main)
-
-#### **4.Car Price Prediction using Lasso Regression**  
-- **Objective:** Developed a predictive model to estimate car prices based on features like year, fuel type, and transmission type.  
-- **Details:** Lasso regression was used to handle overfitting by penalizing less important features, ensuring a robust model. Categorical variables such as fuel type and transmission were encoded to improve performance.  
-- **Key Results:** Achieved **R² scores of 0.84 on training data** and **0.87 on test data**, demonstrating strong predictive power.  
-- **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib  
-- **Impact:** Provided actionable insights into factors influencing car prices, which can aid in pricing strategy for sellers or dealerships.
-- **Github repo link** - [Car Price Prediction using Lasso Regression](https://github.com/Parththapliyal/Car-Price-Prediction-using-Lasso-Regression)
 
 ---
 
