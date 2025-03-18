@@ -24,7 +24,7 @@ Highly motivated **Business Analytics graduate** with expertise in data analysis
 - **Key Results** : The model successfully learns to detect objects from the dataset, showcasing accurate predictions.
 - **Technologies Used** : Python, Ultralytics YOLO, OpenCV, NumPy, Pandas
 - **Impact** : Provides a foundation for object detection tasks, enabling real-world applications like security surveillance and autonomous systems.
-
+- **Github Repo Link** : [License PLate Detection](https://github.com/Parththapliyal/YOLO-)
 
 #### **2. Movie Recommendation System**
 - **Objective**: Built a recommendation system to suggest similar movies based on user-selected titles using content-based filtering techniques.
